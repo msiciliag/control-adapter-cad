@@ -23,8 +23,8 @@ reference/                        fotos y cotas de la pieza original
 
 | Versión | Estado | Cambios |
 |---|---|---|
-| v0.1 | impresa, pendiente de fit test | Primer prototipo. Placa 46×58×5. 4 ganchos con labio a 45°. |
-| v0.2 | — | Gancho con repisa de anclaje recta (no se descabalga al tirar), vástago de 8 mm, placa a 6 mm. |
+| v0.1 | impresa, pendiente de fit test | Primer prototipo. Placa 46×58×5. 4 ganchos, vástago 4 mm, labio a 45°. 17 cm³, 1 h 09 m. |
+| v0.2 | actual | Repisa de anclaje recta de 1.2 mm antes de la rampa (el labio a 45° se descabalgaba al tirar). Vástago 4 → 8 mm. Placa 5 → 6 mm. 17.2 cm³, 1 h 21 m. |
 
 ## Regenerar
 
